@@ -26,7 +26,7 @@
     "minimum-stability": "dev",
     "require": {
         "virtubrick/grid": "^1.0.3",
-        "mikebronner/laravel-model-caching": "12.0.2",
+        "genealabs/laravel-model-caching": "^13.1",
         "league/flysystem-aws-s3-v3": "^3.31",
         "wikimedia/minify": "dev-master"
     }
